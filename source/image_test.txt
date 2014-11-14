@@ -1,0 +1,29 @@
+
+===========
+Error rate: 0.01
+===========
+
+File: image_inputs/flower.ppm
+Running Hamming Code simulation...
+Using image_inputs/flower.ppm to fix .ppm header for image_outputs/ham_1.0_100_flower.ppm
+Running Suggested Code simulation...
+Using image_inputs/flower.ppm to fix .ppm header for image_outputs/sug_1.0_100_flower.ppm
+Running Reed-Muller Code simulation...
+Using image_inputs/flower.ppm to fix .ppm header for image_outputs/rm_1.0_100_flower.ppm
+
+File: image_inputs/pokemon.ppm
+Running Hamming Code simulation...
+Using image_inputs/pokemon.ppm to fix .ppm header for image_outputs/ham_1.0_100_pokemon.ppm
+Running Suggested Code simulation...
+Using image_inputs/pokemon.ppm to fix .ppm header for image_outputs/sug_1.0_100_pokemon.ppm
+Running Reed-Muller Code simulation...
+Using image_inputs/pokemon.ppm to fix .ppm header for image_outputs/rm_1.0_100_pokemon.ppm
+
+File: image_inputs/smiley.ppm
+Running Hamming Code simulation...
+Using image_inputs/smiley.ppm to fix .ppm header for image_outputs/ham_1.0_100_smiley.ppm
+Running Suggested Code simulation...
+Using image_inputs/smiley.ppm to fix .ppm header for image_outputs/sug_1.0_100_smiley.ppm
+Running Reed-Muller Code simulation...
+Using image_inputs/smiley.ppm to fix .ppm header for image_outputs/rm_1.0_100_smiley.ppm
+Done
